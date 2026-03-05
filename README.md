@@ -45,7 +45,7 @@ End-to-end data analytics showcase using SQL, Python, AWS (S3 + Athena), and Pow
 ## Dashboard Preview
 
 <p align="center">
-  <img src="dashboard-screenshot.png" alt="Power BI Dashboard" width="80%">
+  <img src="dashboard-screenshot.png.png" alt="Power BI Dashboard" width="80%">
 </p>
 
 Interactive dashboard showing payment methods, top states by orders/revenue, monthly revenue trend, and key metrics.
@@ -74,4 +74,5 @@ Email: rahamanrahi13@gmail.com
 
 
 ⭐ If you find this helpful, give it a star!
+
 
