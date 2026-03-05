@@ -43,9 +43,12 @@ End-to-end data analytics showcase using SQL, Python, AWS (S3 + Athena), and Pow
 | MG    | 11,496  | 1,843,460.37     |
 
 ## Dashboard Preview
-<image-card alt="Power BI Dashboard" src="dashboard-screenshot.png" ></image-card>(dashboard-screenshot.png)
 
-(Interactive dashboard shows payment breakdown, state map, revenue trend line, and top categories)
+<p align="center">
+  <img src="dashboard-screenshot.png" alt="Power BI Dashboard" width="80%">
+</p>
+
+Interactive dashboard showing payment methods, top states by orders/revenue, monthly revenue trend, and key metrics.
 
 ## Files in this Repo
 - `load_to_postgres.py` → Loads CSVs into PostgreSQL
@@ -71,3 +74,4 @@ Email: rahamanrahi13@gmail.com
 
 
 ⭐ If you find this helpful, give it a star!
+
